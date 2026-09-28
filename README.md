@@ -39,7 +39,7 @@
 
 | Project | What it is | Link |
 |---|---|
-| 🍛 **Desi Dhaba** | Indo-Pak restaurant site (Next.js) — online ordering, cart, $9.99 thali builder, meal plans | [Live](https://desi-dhaba-next.vercel.app/) |
+| 🍛 **Desi Dhaba** | Indo-Pak restaurant site (Next.js) — online ordering, cart, $9.99 thali builder, meal plans | [Live](https://desidhabacuisine.com/) |
 | 🥘 **1 Stop Dhido** | Nepali & Indian restaurant site, Irving TX — menu, testimonials, online ordering | [Live](https://1stopdhido.com) |
 | 🔎 **FindIt** | Campus lost & found PWA — report/browse/claim items, proof-of-ownership verification, in-app messaging | [Live](https://bhanupratapyadav.com.np/vad/lost%20and%20found/) |
 | 📦 **Inventory Management System** | Inventory management app built in Java | [Repo](https://github.com/VadayBhanu/Inventorymanagementsystem) |
